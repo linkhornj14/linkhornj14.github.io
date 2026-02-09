@@ -31,6 +31,7 @@ author:
   employer         : "University of Kentucky"
   uri              : # https://github.com/linkhornj14
   email            : "jesse.linkhorn@Uky.edu" 
+  author_profile   : TRUE
 
   # Academic websites
   academia         : # URL
@@ -128,6 +129,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
