@@ -23,7 +23,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png.jpg"
+  avatar           : "/images/profile.png"
   name             : "Jesse Linkhorn"
   pronouns         : # example: "he/him"  
   bio              : "Economics PhD focused on Labor and Public Economics"
