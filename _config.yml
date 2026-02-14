@@ -18,33 +18,29 @@ url                      : "https://linkhornj14.github.io" # The base hostname &
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-  author:
+
+# Site Author - controls author content used in templates like the sidebar.
+author:
   # Biographic information
-  [cite_start]avatar: "/images/profile.png" # Ensure your photo is in the /images/ folder 
-  [cite_start]name: "Jesse Linkhorn" [cite: 1, 37]
-  [cite_start]bio: "Economics PhD Candidate | Labor & Public Economics" [cite: 7, 13]
-  [cite_start]location: "Lexington, KY" [cite: 3, 37]
-  [cite_start]employer: "University of Kentucky" [cite: 2, 37]
-  [cite_start]uri: "https://linkhornj14.github.io" [cite: 37]
-  [cite_start]email: "jjli230@uky.edu" [cite: 6]
-  [cite_start]github: "linkhornj14" [cite: 5, 37]
-  [cite_start]author_profile: true 
+  avatar: "/images/profile.png"
+  name: "Jesse Linkhorn"
+  bio: "Economics PhD Candidate | Labor & Public Economics"
+  location: "Lexington, KY"
+  employer: "University of Kentucky"
+  uri: "https://linkhornj14.github.io"
+  email: "jjli230@uky.edu"
+  github: "linkhornj14"
+  author_profile: true
 
-  # Academic websites
-  academia         : # URL
-  researchgate     : # URL
+  # Academic websites (leave empty strings if you don't have them)
+  academia: ""
+  researchgate: ""
 
+# Site-level GitHub username (used elsewhere in templates)
+github: "linkhornj14"
 
-
-  # Repositories and software development
-  github           : "linkhornj14"
-
-  # Social media
-  linkedin         : # Username
-
+# Social media
+linkedin: ""
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -102,26 +98,26 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username: ""
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username: ""
+  app_id: ""
+  publisher: ""
 og_image                 :  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: ""
+  name: ""
+  links: []
 
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id: ""
 
 
 # Reading Files
