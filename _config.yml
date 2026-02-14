@@ -31,6 +31,10 @@ author:
   email: "jjli230@uky.edu"
   github: "linkhornj14"
   author_profile: true
+  links:
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/files/CV.pdf"
 
   # Academic websites (leave empty strings if you don't have them)
   academia: ""

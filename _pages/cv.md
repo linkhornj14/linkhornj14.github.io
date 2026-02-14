@@ -15,7 +15,7 @@ Education
 * M.S. in Economics, University of Kentucky, 2023
 * B.S. in Economics, Rhodes College, 2018
 
-[Download Full (CV)](files/CV.pdf)
+[Download Full (CV)]("files/CV.pdf")
 
 Work experience
 ======
