@@ -14,14 +14,14 @@ title_separator          : "-"
 name                     : &name "Jesse Linkhorn"
 description              : &description "Welcome to my site! I am an economics PhD candidate at the University of Kentucky. My research broadly studies changes to unemployment benefits and labor market outcomes. I also research the effects of access to public insurance on online crowdfunding."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://linkhornj14.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+# or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
+  author:
   # Biographic information
   [cite_start]avatar: "/images/profile.png" # Ensure your photo is in the /images/ folder 
   [cite_start]name: "Jesse Linkhorn" [cite: 1, 37]
@@ -31,8 +31,7 @@ author:
   [cite_start]uri: "https://linkhornj14.github.io" [cite: 37]
   [cite_start]email: "jjli230@uky.edu" [cite: 6]
   [cite_start]github: "linkhornj14" [cite: 5, 37]
-  [cite_start]googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ" [cite: 37]
-  [cite_start]author_profile: true [cite: 37]
+  [cite_start]author_profile: true 
 
   # Academic websites
   academia         : # URL
