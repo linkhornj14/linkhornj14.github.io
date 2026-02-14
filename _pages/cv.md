@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, University of Kentucky, 2027 (expected)
+* M.S. in Economics, University of Kentucky, 2023
+* B.S. in Economics, Rhodes College, 2018
+
+[Download Full (CV)](files/CV.pdf)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025 - Current: Economist (Part-Time)
+  * The Burning Glass Institute
+  * Conducted labor market research on job mobility in the Los-Angeles Metro Area for the Broad Foundation
+  * Analyzed key factors that led to upward job mobility using public and private data sources. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022 - Current: Teaching Assistant
+  * University of Kentucky
+  * Teach small sections (50-60 students) of introductory economics courses in-person and asynchronously 
+  * Supervisor: Darshak Patel, Alejandro Dellachiesa, Justin Heflin
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Graduate Research Intern
+  * Nike
+  * Conducted self-led research on the use of temporary external workers (ETW) at Nike. Synthesized final research project that outlined company wide breakdown and use of ETW's accounting for cost and headcount.
+  * Supervisor: Jesse Cunha
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+S
