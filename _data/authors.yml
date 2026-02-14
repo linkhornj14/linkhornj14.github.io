@@ -16,3 +16,11 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+Jesse Linkhorn:
+  name: "Jesse Linkhorn"
+  email: "jjli230@uky.edu"
+  bio: "Economics PhD Candidate | Labor & Public Economics"
+  avatar: "profile.png"
+  twitter: ""
+  uri: "https://linkhornj14.github.io"

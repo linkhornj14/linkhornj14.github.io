@@ -22,7 +22,7 @@ repository               : ""
 # Site Author - controls author content used in templates like the sidebar.
 author:
   # Biographic information
-  avatar: "/images/profile.png"
+  avatar: "profile.png"
   name: "Jesse Linkhorn"
   bio: "Economics PhD Candidate | Labor & Public Economics"
   location: "Lexington, KY"
