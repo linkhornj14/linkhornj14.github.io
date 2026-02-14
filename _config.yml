@@ -23,15 +23,16 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
-  name             : "Jesse Linkhorn"
-  pronouns         : # example: "he/him"  
-  bio              : "Economics PhD focused on Labor and Public Economics"
-  location         : "Lexington"
-  employer         : "University of Kentucky"
-  uri              : # https://github.com/linkhornj14
-  email            : "jesse.linkhorn@Uky.edu" 
-  author_profile   : TRUE
+  [cite_start]avatar: "/images/profile.png" # Ensure your photo is in the /images/ folder 
+  [cite_start]name: "Jesse Linkhorn" [cite: 1, 37]
+  [cite_start]bio: "Economics PhD Candidate | Labor & Public Economics" [cite: 7, 13]
+  [cite_start]location: "Lexington, KY" [cite: 3, 37]
+  [cite_start]employer: "University of Kentucky" [cite: 2, 37]
+  [cite_start]uri: "https://linkhornj14.github.io" [cite: 37]
+  [cite_start]email: "jjli230@uky.edu" [cite: 6]
+  [cite_start]github: "linkhornj14" [cite: 5, 37]
+  [cite_start]googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ" [cite: 37]
+  [cite_start]author_profile: true [cite: 37]
 
   # Academic websites
   academia         : # URL
