@@ -9,29 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Economics, University of Kentucky, 2027 (expected)
-* M.S. in Economics, University of Kentucky, 2023
-* B.S. in Economics, Rhodes College, 2018
+[**Download Full CV (PDF)**](/files/CV.pdf)
 
-[Download Full (CV)]("files/CV.pdf")
+---
 
-Work experience
-======
-* Fall 2025 - Current: Economist (Part-Time)
-  * The Burning Glass Institute
-  * Conducted labor market research on job mobility in the Los-Angeles Metro Area for the Broad Foundation
-  * Analyzed key factors that led to upward job mobility using public and private data sources. 
+## Education
 
-* Fall 2022 - Current: Teaching Assistant
-  * University of Kentucky
-  * Teach small sections (50-60 students) of introductory economics courses in-person and asynchronously 
-  * Supervisor: Darshak Patel, Alejandro Dellachiesa, Justin Heflin
+- **Ph.D. in Economics**, University of Kentucky, 2027 (expected)
+- **M.S. in Economics**, University of Kentucky, 2023
+- **B.S. in Economics**, Rhodes College, 2018
 
-* Summer 2022: Graduate Research Intern
-  * Nike
-  * Conducted self-led research on the use of temporary external workers (ETW) at Nike. Synthesized final research project that outlined company wide breakdown and use of ETW's accounting for cost and headcount.
-  * Supervisor: Jesse Cunha
-  
-S
+---
+
+## Research Fields
+
+Primary: Labor Economics, Public Economics
+Secondary: Applied Microeconomics, Health Economics
+
+---
+
+## Work Experience
+
+**Part-Time Economist** — The Burning Glass Institute *(Fall 2025 – Present)*
+- Conducted labor market research on job mobility in the Los Angeles Metro Area for the Broad Foundation
+- Analyzed key factors driving upward job mobility using public and proprietary data sources
+
+**Teaching Assistant** — University of Kentucky *(Fall 2022 – Present)*
+- Teach sections of 50–60 students in introductory and intermediate economics courses (in-person and asynchronous)
+- Supervisors: Darshak Patel, Alejandro Dellachiesa, Justin Heflin
+
+**Graduate Research Intern** — Nike *(Summer 2022)*
+- Conducted independent research on the use of temporary external workers (ETW) at Nike
+- Synthesized a company-wide report on ETW breakdown, cost implications, and headcount accounting
+- Supervisor: Jesse Cunha
+
+---
+
+## Teaching
+
+**University of Kentucky**
+- Principles of Microeconomics (ECO 201) — Fall 2022, Spring 2023, Fall 2023, Fall 2024, Spring 2025
+- Economic and Business Statistics (ECO 391) — Summer 2023
+- Intermediate Microeconomics (ECO 401) — Summer 2024
+
+---
+
+## Working Papers
+
+- "The Effects of State-Level Unemployment Insurance Duration Reductions on Labor Market Outcomes" (with Ken Troske)
+- "Economic Shocks and Consumption Smoothing Using Online Crowdfunding"
+
+---
+
+## Presentations
+
+- Southern Economic Association 94th Annual Meeting, 2024
+
+---
+
+[**Download Full CV (PDF)**](/files/CV.pdf)
