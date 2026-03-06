@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the University of Kentucky, specializing in labor economics and public economics. My research examines how policy-driven shocks to public insurance programs shape individual labor market trajectories and household financial behavior.
+I am a PhD candidate in Economics at the University of Kentucky, specializing in labor economics and public economics. My research examines how policy-driven shocks to public insurance programs shape individual labor market trajectories and online crowdfunding and giving behavior.
 
 ## Research Statement
 
-My work sits at the intersection of labor economics and public finance. I study two related questions. First, how do reductions in unemployment insurance (UI) generosity affect workers' job search behavior, employment outcomes, and earnings trajectories? Second, when households face adverse economic shocks, do they turn to informal mechanisms — such as online crowdfunding — to smooth consumption, and if so, how effective are these alternatives?
+I am mainly interested in the economic factors that drive charitable giving and their mechanisms. My research examines GoFundMe as an informal insurance market. I find that access to unemployment insurance — on the extensive margin — is a significant predictor of campaign creation, suggesting that crowdfunding serves a genuine consumption-smoothing role for households with limited access to formal insurance.
 
-My job market paper exploits variation in state-level UI benefit duration cuts enacted between 2011 and 2016 to identify the causal effects of reduced UI generosity on labor market outcomes. Using administrative and survey data, I document how shorter benefit windows alter the timing and quality of job matches.
+My job market paper exploits variation in state-level UI benefit duration cuts enacted between 2020 and 2025 to identify the causal effects of reduced UI generosity on labor market outcomes. Using administrative, private, and survey data, I document how reduced unemployment benefits affect employment, earnings, and worker bargaining power across states and time.
 
-A complementary strand of my research examines GoFundMe and similar platforms as informal insurance markets. I find that economic shocks — including job loss and unexpected medical expenses — are significant predictors of campaign creation, suggesting that crowdfunding serves a genuine consumption-smoothing role for households with limited access to formal insurance.
-
-Outside academia, I have applied these interests in industry. At the Burning Glass Institute I conducted labor market research on job mobility in the Los Angeles Metro Area, and at Nike I studied the use of temporary external workers.
+Outside academia, I have years of corporate business experience. Currently, I am an economist (part-time) at the Burning Glass Institute, where I conduct labor market research on job mobility. I spent a summer at Nike where I studied the use of temporary external workers.
 
 ## Contact
 
