@@ -1,0 +1,200 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+ %Load packages
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{enumitem} % Enumerate with [resume] option
+\usepackage{sectsty} % Custom section fonts
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{Jesse Linkhorn}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{http://jblevins.org/projects/cv-template/}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {economics, statistics, mathematics},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+% Contact Information
+\bigskip
+\begin{minipage}[t]{0.495\textwidth}
+    The University of Kentucky \\
+  Department of Economics \\
+  Gatton College of Business \& Economics \\
+  Lexington, Kentucky 40506
+\end{minipage}
+\begin{minipage}[t]{0.495\textwidth}
+  \href{https://github.com/linkhornj14/}{https://github.com/linkhornj14} \\
+  \href{mailto:jjli230@uky.edu}{jjli230@uky.edu} \\
+  (614) 580-6174
+\end{minipage}
+
+
+\section*{Education}
+
+\begin{itemize}
+  \item Ph.D. Economics, University of Kentucky, 2026 (Expected).
+    % Received May 16, 2010
+    \begin{itemize}
+    \item Dissertation Title: ``Labor Market Responses to Changes in Unemployment Benefit Generosity''.
+    \item Committee: Ken Troske (chair), Chris Bollinger, Mike Clark, Dan Blackwell.
+    \end{itemize}
+  \item M.S. Economics, University of Kentucky, 2023.
+    % Received May 14, 2006
+  \item B.A. Economics, \textit{Cum Laude},
+    Rhodes College, 2018.
+    % Received May 14, 2004
+    \begin{itemize}
+    \item Minor in Mathematics.
+    \end{itemize}
+\end{itemize}
+
+
+\section*{Honors \& Awards}
+
+\begin{itemize}
+\item Arvil V. and Mary A. Adams Summer Research Fellowship, 2026.
+\end{itemize}
+
+
+\section*{Research Interests}
+
+Labor Economics, Charitable Giving, Applied Microeconomics
+
+\section*{Publications}
+
+\subsection*{Working Papers}
+
+\begin{enumerate}[resume]
+\item Linkhorn, Jesse. \textit{Economic Shocks and Consumption Smoothing Using Online Crowdfunding.}
+\item Linkhorn, Jesse and Troske, Ken. \textit{The Effects of State-Level Unemployment Benefit Reductions on Labor Market Outcomes.}
+\item Linkhorn, Jesse. \textit{Does Disaster Aid Crowd Out Online Crowdfunding? A GoFundMe Case Study.}
+\end{enumerate}
+
+\section*{Conference Presentations}
+
+\begin{description}[font=\mdseries]
+\item[2024]
+  Unemployment Insurance Generosity and Online Crowdfunding Responses to Labor Market Changes (Southern Economic Association 94th Annual Meeting) (presenter).
+
+\end{description}
+
+\section*{Teaching}
+
+\subsection*{University of Kentucky}
+
+\begin{itemize}
+\item Principles of Macroeconomics (ECO202): Spring 2026
+
+\item Principles of Microeconomics (ECO201): Fall 2022, Spring 2023, Fall 2023, Fall 2024, Spring 2025
+
+\item Economic and Business Statistics (ECO391): Summer 2023, Summer 2025
+
+\item Intermediate Microeconomics (ECO401): Summer 2024
+
+
+\end{itemize}
+
+\section*{Employment}
+
+\begin{itemize}
+\item Economist, The Burning Glass Institute, October 2025--Current
+\item Nike, Graduate Research Intern, June--August 2022.
+\item Kohls, People Analytics Analyst, July 2019--July 2021.
+\item American Family Insurance, Data Solutions Engineer, August 2018--June 2019.
+\end{itemize}
+
+\section*{Service to Profession, University, \& Department}
+
+\begin{itemize}
+\item Graduate Student Workshop Organizer, 2024--2025
+\end{itemize}
+
+
+\section*{Miscellaneous}
+
+\begin{itemize}
+\item \textit{Programming Languages:}  \LaTeX, Python, Stata, R, SQL
+\item \textit{Security Clearance:} Special Sworn Status, U.S. Census Bureau (2024).
+\end{itemize}
+
+\vfill
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    %\href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}

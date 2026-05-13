@@ -21,6 +21,12 @@ redirect_from:
 
 ---
 
+## Awards and Honors
+
+- Arvil V. and Mary A. Adams Summer Research Fellowship, 2026
+
+---
+
 ## Research Fields
 
 Primary: Labor Economics, Public Economics
