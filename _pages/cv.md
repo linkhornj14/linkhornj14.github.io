@@ -54,8 +54,9 @@ Secondary: Applied Microeconomics, Health Economics
 ## Teaching
 
 **University of Kentucky**
+- Principles of Macroeconomics (ECO 202) — Spring 2026
 - Principles of Microeconomics (ECO 201) — Fall 2022, Spring 2023, Fall 2023, Fall 2024, Spring 2025
-- Economic and Business Statistics (ECO 391) — Summer 2023
+- Economic and Business Statistics (ECO 391) — Summer 2023, Summer 2025
 - Intermediate Microeconomics (ECO 401) — Summer 2024
 
 ---
@@ -63,6 +64,7 @@ Secondary: Applied Microeconomics, Health Economics
 ## Working Papers
 
 - "The Effects of State-Level Unemployment Insurance Duration Reductions on Labor Market Outcomes" (with Ken Troske)
+- "Worker-Level Effects of State Unemployment Insurance Benefit Duration Cuts"
 - "Economic Shocks and Consumption Smoothing Using Online Crowdfunding"
 
 ---
