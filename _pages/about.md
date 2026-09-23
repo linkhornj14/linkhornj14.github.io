@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the University of Kentucky, specializing in labor economics and public economics. My research examines how policy-driven shocks to public insurance programs shape individual labor market trajectories and online crowdfunding and giving behavior.
+I am a PhD candidate in Economics at the University of Kentucky, specializing in labor economics, charitable giving, and applied microeconomics. My research examines how policy-driven shocks to public insurance programs shape individual labor market trajectories and online crowdfunding and giving behavior.
 
 ## Research Statement
 

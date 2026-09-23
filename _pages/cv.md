@@ -17,7 +17,7 @@ redirect_from:
 
 - **Ph.D. in Economics**, University of Kentucky, 2027 (expected)
 - **M.S. in Economics**, University of Kentucky, 2023
-- **B.S. in Economics**, Rhodes College, 2018
+- **B.A. in Economics**, *cum laude*, Rhodes College, 2018 (Minor in Mathematics)
 
 ---
 
@@ -27,27 +27,28 @@ redirect_from:
 
 ---
 
-## Research Fields
+## Research Interests
 
-Primary: Labor Economics, Public Economics
-Secondary: Applied Microeconomics, Health Economics
+Labor Economics, Charitable Giving, Applied Microeconomics
 
 ---
 
 ## Work Experience
 
-**Part-Time Economist** — The Burning Glass Institute *(Fall 2025 – Present)*
+**Economist** — The Burning Glass Institute *(October 2025 – Present)*
 - Conducted labor market research on job mobility in the Los Angeles Metro Area for the Broad Foundation
 - Analyzed key factors driving upward job mobility using public and proprietary data sources
 
-**Teaching Assistant** — University of Kentucky *(Fall 2022 – Present)*
+**Teaching Assistant** — University of Kentucky *(August 2022 – Present)*
 - Teach sections of 50–60 students in introductory and intermediate economics courses (in-person and asynchronous)
 - Supervisors: Darshak Patel, Alejandro Dellachiesa, Justin Heflin
 
-**Graduate Research Intern** — Nike *(Summer 2022)*
+**Graduate Research Intern** — Nike *(June – August 2022)*
 - Conducted independent research on the use of temporary external workers (ETW) at Nike
 - Synthesized a company-wide report on ETW breakdown, cost implications, and headcount accounting
 - Supervisor: Jesse Cunha
+
+**People Analytics Analyst** — Kohl's *(July 2019 – July 2021)*
 
 ---
 
@@ -63,15 +64,17 @@ Secondary: Applied Microeconomics, Health Economics
 
 ## Working Papers
 
-- "The Effects of State-Level Unemployment Insurance Duration Reductions on Labor Market Outcomes" (with Ken Troske)
-- "Worker-Level Effects of State Unemployment Insurance Benefit Duration Cuts"
 - "Economic Shocks and Consumption Smoothing Using Online Crowdfunding"
+- "The Effects of State-Level Unemployment Benefit Reductions on Labor Market Outcomes" (with Ken Troske)
+- "Worker-Level Effects of State Unemployment Insurance Benefit Duration Cuts"
+- "Does Disaster Aid Crowd Out Online Crowdfunding? A GoFundMe Case Study"
 
 ---
 
 ## Presentations
 
-- Southern Economic Association 94th Annual Meeting, 2024
+- "The Effects of State-Level Unemployment Benefit Reductions on Labor Market Outcomes," Federal Statistical Research Data Center Annual Conference, 2026
+- "Unemployment Insurance Generosity and Online Crowdfunding Responses to Labor Market Changes," Southern Economic Association 94th Annual Meeting, 2024
 
 ---
 

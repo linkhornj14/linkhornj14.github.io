@@ -2,7 +2,7 @@
 title: "Economic Shocks and Consumption Smoothing Using Online Crowdfunding"
 collection: publications
 permalink: /publication/crowdfunding-shocks
-date: 2025-01-01
+date: 2025-01-04
 venue: 'Working Paper'
 citation: 'Linkhorn, Jesse. (2025). "Economic Shocks and Consumption Smoothing Using Online Crowdfunding." Working Paper.'
 ---

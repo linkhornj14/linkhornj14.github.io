@@ -1,10 +1,10 @@
 ---
-title: "The Effects of State-Level Unemployment Insurance Duration Reductions on Labor Market Outcomes"
+title: "The Effects of State-Level Unemployment Benefit Reductions on Labor Market Outcomes"
 collection: publications
 permalink: /publication/ui-duration-outcomes
-date: 2025-01-02
+date: 2025-01-03
 venue: 'Working Paper'
-citation: 'Linkhorn, Jesse and Troske, Ken. (2025). "The Effects of State-Level Unemployment Insurance Duration Reductions on Labor Market Outcomes." Working Paper.'
+citation: 'Linkhorn, Jesse and Troske, Ken. (2025). "The Effects of State-Level Unemployment Benefit Reductions on Labor Market Outcomes." Working Paper.'
 ---
 
 **With Ken Troske (University of Kentucky)**
