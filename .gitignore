@@ -21,3 +21,10 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# LaTeX build files from compiling files/CV.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
