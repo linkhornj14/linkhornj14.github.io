@@ -54,11 +54,11 @@ Labor Economics, Charitable Giving, Applied Microeconomics
 
 ## Teaching
 
-**University of Kentucky**
-- Principles of Macroeconomics (ECO 202) — Spring 2026
-- Principles of Microeconomics (ECO 201) — Fall 2022, Spring 2023, Fall 2023, Fall 2024, Spring 2025
-- Economic and Business Statistics (ECO 391) — Summer 2023, Summer 2025
-- Intermediate Microeconomics (ECO 401) — Summer 2024
+**University of Kentucky** (Instructor of record)
+- Principles of Macroeconomics (ECO 202) — Spring 2026 (asynchronous online; 40–60 students)
+- Principles of Microeconomics (ECO 201) — Spring 2025 (in-person); Fall 2022, Spring 2023, Fall 2023, Fall 2024 (asynchronous online); 40–60 students per section
+- Economic and Business Statistics (ECO 391) — Summer 2023, Summer 2025 (asynchronous online; 20–30 students)
+- Intermediate Microeconomics (ECO 401) — Summer 2024 (asynchronous online; 20–30 students)
 
 ---
 
