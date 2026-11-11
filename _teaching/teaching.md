@@ -11,13 +11,13 @@ I have served as a Teaching Assistant at the University of Kentucky since Fall 2
 
 ## University of Kentucky
 **Principles of Macroeconomics (ECO 202)**
-Spring 2026
+Spring 2026 (asynchronous)
 
 **Principles of Microeconomics (ECO 201)**
-Fall 2022 | Spring 2023 | Fall 2023 | Fall 2024 | Spring 2025
+Fall 2022 (asynchronous) | Spring 2023 (asynchronous) | Fall 2023 (asynchronous) | Fall 2024 (asynchronous) | Spring 2025 (in-person)
 
 **Economic and Business Statistics (ECO 391)**
-Summer 2023 | Summer 2025
+Summer 2023 (asynchronous) | Summer 2025 (asynchronous)
 
 **Intermediate Microeconomics (ECO 401)**
-Summer 2024
+Summer 2024 (asynchronous)

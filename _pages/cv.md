@@ -65,7 +65,7 @@ Labor Economics, Charitable Giving, Applied Microeconomics
 ## Working Papers
 
 - "Economic Shocks and Consumption Smoothing Using Online Crowdfunding"
-- "The Effects of State UI Benefit Duration Cuts on Labor Market Outcomes" (with Ken Troske)
+- "The Effects of State Unemployment Insurance Benefit Duration Cuts on Labor Market Outcomes" (with Ken Troske) — **Job Market Paper** ([PDF](/files/Linkhorn_JMP.pdf))
 - "Unemployment Insurance Duration Cuts and the Distribution of Re-employment: Worker-Level Evidence" (with Ken Troske)
 - "Crowding Out or Warm Glow? The Relationship Between Federal Aid and Crowdfunding in the Aftermath of Natural Disasters"
 
