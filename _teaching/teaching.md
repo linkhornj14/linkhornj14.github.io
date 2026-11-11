@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have served as a Teaching Assistant at the University of Kentucky since Fall 2022, teaching small sections of 50–60 students in introductory and intermediate economics courses both in-person and asynchronously.
+I have served as a Teaching Assistant at the [University of Kentucky](https://www.uky.edu) since Fall 2022, teaching small sections of 50–60 students in introductory and intermediate economics courses both in-person and asynchronously.
 
 ---
 
-## University of Kentucky
+## [University of Kentucky](https://www.uky.edu)
 **Principles of Macroeconomics (ECO 202)**
 Spring 2026 (asynchronous)
 

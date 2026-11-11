@@ -10,7 +10,7 @@ citation: 'Linkhorn, Jesse and Troske, Ken. (2025). "The Effects of State Unempl
 
 **Job Market Paper**
 
-**With Ken Troske (University of Kentucky)**
+**With [Ken Troske](https://gatton.uky.edu/faculty-research/faculty/troske-kenneth) ([University of Kentucky](https://www.uky.edu))**
 
 [Download the draft (PDF)](/files/Linkhorn_JMP.pdf)
 
